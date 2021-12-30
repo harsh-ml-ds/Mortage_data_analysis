@@ -2,4 +2,4 @@
 EDA for Mortage dataset: 
 EDA for univariate analysis,
 Graphical method,
-Descriptive Statistics,
+Descriptive Statistics
